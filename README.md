@@ -15,7 +15,7 @@ Presented findings as a formal academic paper fulfilling final course requiremen
 
 
 Ethical Implications of AI in Social Engineering Penetration Testing
-CIS 6370 – Computer Data Security | Florida Atlantic University | Final Research Project | Oct 2024
+CIS 6370 – Computer Data Security | Florida Atlantic University | Final Research Project | Dec 2024
 
 Researched the growing ethical concerns of AI-powered automated social engineering (ASE) in cybersecurity contexts.
 Applied and extended virtue ethics theory to evaluate the moral considerations of using automation in penetration testing scenarios.
