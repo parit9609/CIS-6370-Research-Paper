@@ -2,29 +2,24 @@
 This repository includes two research works: SLIF, a framework integrating AI-driven threat modeling and DAST into SDLC to reduce vulnerabilities and enhance efficiency; and a study extending virtue ethics to AI-based social engineering, addressing ethical concerns like accountability, harm, and moderation in automated attacks.
 
 
-# Secure Software Development using SLIF Framework
+Secure Software Development Across SDLC Using Threat Modeling
+CIS 6370 – Computer Data Security | Florida Atlantic University | Final Research Project | Dec 2024
 
-This academic research explores the Secure Lifecycle Integration Framework (SLIF), a comprehensive model for integrating security throughout the Software Development Life Cycle (SDLC). The framework incorporates predictive analytics, dynamic testing (DAST), and secure UML annotations to proactively address vulnerabilities from the requirements phase to deployment.
+Conducted an in-depth academic study on improving software security by embedding proactive security techniques into all stages of the Software Development Life Cycle (SDLC).
 
-Key highlights:
-- Developed to align with Agile and DevOps practices
-- Demonstrated 30% reduction in vulnerabilities and 15% improvement in time-to-market
-- Includes case studies from healthcare, finance, and cloud technology sectors
+Proposed the Secure Lifecycle Integration Framework (SLIF) to address limitations of traditional reactive security models by integrating threat modeling, UML annotations, and predictive analytics.
 
-The project was completed as part of the graduate-level course CIS 6370: Computer Data Security at Florida Atlantic University.
+Analyzed real-world industry scenarios in healthcare, finance, and cloud services to demonstrate the framework’s theoretical potential in reducing vulnerabilities, development costs, and release delays.
 
-# Ethics of Social Engineering in Penetration Testing
+Presented findings as a formal academic paper fulfilling final course requirements.
 
-This research paper investigates the ethical implications of using traditional and AI-driven social engineering (ASE) in penetration testing. Building on Joseph M. Hatfield’s virtue ethics model, it proposes an expanded ethical framework to evaluate automated manipulation tactics powered by AI.
+Ethical Implications of AI in Social Engineering Penetration Testing
+CIS 6370 – Computer Data Security | Florida Atlantic University | Final Research Project | Oct 2024
 
-Core contributions:
-- Comparative ethical analysis: human-driven vs. AI-driven social engineering
-- Application of virtue ethics principles: moderation, responsibility, and community good
-- Practical recommendations for ethical oversight and AI governance in cybersecurity
+Researched the growing ethical concerns of AI-powered automated social engineering (ASE) in cybersecurity contexts.
 
-Conducted as part of CIS 6370: Computer Data Security at Florida Atlantic University.
+Applied and extended virtue ethics theory to evaluate the moral considerations of using automation in penetration testing scenarios.
 
+Compared traditional human-led social engineering to automated campaigns, highlighting gaps in accountability, autonomy, and harm mitigation.
 
-
-
-
+Proposed a hybrid ethical model combining AI ethics principles with virtue ethics to guide responsible use in cybersecurity testing environments.
